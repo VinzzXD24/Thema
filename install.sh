@@ -93,7 +93,7 @@ install_theme() {
     read -r SELECT_THEME
     case "$SELECT_THEME" in
       1)
-        THEME_URL=$(echo -e "https://raw.githubusercontent.com/VinzzXD24/Installer/main/C1.zip")
+        THEME_URL=$(echo -e "https://raw.githubusercontent.com/VinzzXD24/Installer/main/C2.zip")
         break
         ;;
       2)
